@@ -1,0 +1,4 @@
+# Problem Solving
+
+1. [Laravel 9 - laravel new command has error: Deprecated: Return type of Symfony\Component\Process\Process::getIterator(int $flags = 0)](https://stackoverflow.com/questions/71141918/laravel-9-laravel-new-command-has-error-deprecated-return-type-of-symfony-co)
+2. [The openssl extension is required for SSL/TLS protection](https://stackoverflow.com/questions/35249620/the-openssl-extension-is-required-for-ssl-tls-protection)
