@@ -6,6 +6,8 @@
   * [Sejarah](jaringan-komputer/2.-sejarah.md)
   * [Kelebihan dan Kekurangan](jaringan-komputer/3.-kelebihan-dan-kekurangan.md)
 * [Cloud](cloud/README.md)
+  * [Fundamental](cloud/fundamental/README.md)
+    * [Cloud Computing Overview](cloud/fundamental/cloud-computing-overview.md)
   * [Oracle Cloud Infrastructure](cloud/oracle-cloud-infrastructure/README.md)
     * [IAM](cloud/oracle-cloud-infrastructure/2022-11-24.md)
     * [Useful Links](<Cloud/Oracle Cloud Infrastructure/1. Introduction.md>)
