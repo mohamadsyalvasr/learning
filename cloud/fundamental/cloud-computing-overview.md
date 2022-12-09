@@ -1,6 +1,7 @@
 # Cloud Computing Overview
 
 ## Apa itu Cloud ?
+Cloud = Awan :)
 
 ## Apa itu Cloud Computing ?
 
